@@ -7,7 +7,7 @@ import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import PricingPage from "./pages/pricing";
 import WorkPage from "./pages/work";
-import BlogPage from "./pages/Blog";
+import BlogPage from "./pages/blog";
 import ContactPage from "./pages/contact";
 
 function App() {
